@@ -1,0 +1,10 @@
+{
+    "name": "pastebeest",
+    "version": "0.0.1",
+    "author": "Armen138",
+    "email": "armen138@gmail.com",
+    "homepage": "http://www.pastebeest.com",
+    "bin": {
+        "pastebeest": "pastebeest.js"
+    }
+}
